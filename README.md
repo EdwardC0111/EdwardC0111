@@ -16,8 +16,6 @@
 I'm a game developer and mod creator, currently working as an engine maintainer at a game company.
 I'm exploring indie game development on the side. If you're an artist who's also passionate about game dev, feel free to reach out—let's build something cool together!
 
-## 📊 Profile Statistics
-
  <div align=center>
 
 ![](https://github-readme-stats.vercel.app/api?username=EdwardC0111&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
