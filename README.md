@@ -28,16 +28,12 @@ I'm exploring indie game development on the side. If you're an artist who's also
  ### 💳 Github Profile Summary Card
  
  <div align=center>
-  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdwardC0111&theme=github_dark)
-  
  </div>
  
  ### ⏱ Streak Stats
  
  <div align=center>
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EdwardC0111)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=EdwardC0111)](https://git.io/streak-stats)
  </div>
  
