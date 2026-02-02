@@ -16,15 +16,11 @@
 I'm a game developer and mod creator, currently working as an engine maintainer at a game company.
 I'm exploring indie game development on the side. If you're an artist who's also passionate about game dev, feel free to reach out—let's build something cool together!
  
- ### 💳 Github Profile Summary Card
- 
  <div align=center>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdwardC0111&theme=github_dark)
 
  </div>
- 
- ### ⏱ Streak Stats
  
  <div align=center>
 
