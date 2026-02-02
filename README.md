@@ -24,7 +24,7 @@ I'm exploring indie game development on the side. If you're an artist who's also
  
  <div align=center>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EdwardC0111)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdwardC0111&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
  </div>
  
